@@ -437,7 +437,7 @@ Crea `app/templates/base.html`:
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="{{ url_for('home') }}">Flask App</a>
+        <a class="navbar-brand" href="{{ url_for('home') }}">II0703 App</a>
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav mr-auto">
                 <li class="
